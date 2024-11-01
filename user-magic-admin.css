@@ -1,0 +1,266 @@
+.pro-feature {
+  background: #fff;
+  color: #bbb;
+  padding: 2rem;
+  font-size: 1.2rem;
+  font-style: italic;
+  text-align: center;
+  border: 1px solid #bbb;
+  margin-top: 1rem;
+}
+
+.pro-feature a {
+  background: #6bc406;
+  color: #fff;
+  display: inline-block;
+  font-style: normal;
+  font-size: 1rem;
+  padding: .25rem .5rem;
+  text-decoration: none;
+  margin-left: .5rem;  
+  border: 1px solid #6bc406;
+}
+
+.pro-feature a:hover {
+  background: #fff;
+  color: #6bc406;
+  border: 1px solid #6bc406;
+}
+
+.settings_page_user-magic .wrap {
+  padding: 0 1rem;
+}
+
+.user-magic-settings-container {
+  padding: 1rem 0;
+}
+
+#menu-posts-contact > ul > li > a.user-magic-upgrade {
+  color: greenyellow;
+}
+
+#menu-posts-contact > ul > li > a.user-magic-upgrade:hover {
+  color: greenyellow;
+}
+
+.user-magic-group-checkbox-container {
+  display: block;
+  padding: 5px;
+}
+
+.user_magic_send_email_target_div {
+  width: 100%;
+  height: 50px;
+  background: #fff;
+  background: rgb(241, 241, 241);
+}
+
+.target_send_email {
+  background: rgb(241, 241, 241);
+  width: 100%;
+  height: 160px;
+}
+
+.send_email_target_div {
+  width: 100%;
+  height: 50px;
+  background: #fff;
+  background: rgb(241, 241, 241);
+}
+
+.sending-in-progress {
+  border: 1px solid #bbb;
+  background: #fff;
+  color: #333;
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.user-magic-mail-sent {
+  border: 1px solid #bbb;
+  background: #fff;
+  color: #333;
+  margin-top: 10px;
+  padding: 15px;
+  color: green;
+  font-weight: bold;  
+}
+
+.user-magic-send-mail-error {
+  border: 1px solid #bbb;
+  background: #fff;
+  color: #333;
+  margin-top: 10px;
+  padding: 15px;
+  color: red;
+  font-weight: bold;
+}
+
+.user-magic-mail-log-msg-details {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-collapse: collapse;
+}
+
+.user-magic-mail-log-msg-details td:first-of-type {
+  font-weight: bold;
+  background: #fff;
+}
+
+.user-magic-mail-log-msg-details td {
+  border: 1px solid #bbb;
+  padding: 5px 10px;
+}
+
+.user-magic-mail-log-recipients-container table {
+  border-collapse: collapse;
+}
+
+.user-magic-mail-log-recipients-container table th {
+  background: #fff;
+  border-collapse: collapse;
+}
+
+.user-magic-mail-log-recipients-container table th,
+.user-magic-mail-log-recipients-container table td {
+  text-align: left;
+  padding: 10px;
+  border: 1px solid #bbb;
+}
+
+.user-magic-send-email-form label span,
+.recipients-title,
+.restrict-recipients-title {
+  font-weight: 500;
+  font-size: 1rem;
+  margin-top: .75rem;
+  margin-bottom: .25rem;
+  display: block;
+}
+      
+.user-magic-send-email-form input {
+  width: 100%;
+  border: 1px solid #bbb;
+  padding: .5rem;
+}
+
+.user-magic-send-email-form .contact-category {
+  display: block;
+  padding-left: 10px;
+}
+
+.user-magic-send-email-form .contact-category span {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.user-magic-send-email-form .contact-category input {
+  width: 16px;
+}
+
+.user-magic-send-email-form .contact-subcategory {
+  display: block;
+  padding-left: 25px;
+}
+
+.user-magic-send-email-form .contact-subcategory span {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.user-magic-send-email-form .contact-subcategory input {
+  width: 16px;
+}
+
+.user-magic-send-email-form textarea {
+  width: 100%;        
+  height: 200px;
+  border: 1px solid #bbb;
+  box-shadow: none;
+  padding: .5rem;
+}
+
+.user-magic-send-email-form input[type=submit] {
+  width: 160px;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  cursor: pointer;
+  border: 1px solid #333; 
+}
+
+.user-magic-send-email-form input[type=submit]:disabled {
+  border: 1px solid #eee; 
+}
+
+.email-info {
+  background: #eee;
+  border: 1px solid #bbb;
+  max-width: 600px;
+  padding: .5rem;
+  margin-top: .5rem;
+  font-size: .8rem;
+}
+
+.sender-info {
+  margin-top: 10px;
+}
+
+.user-magic-mail-log {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.user-magic-mail-log th {
+  background: #fff;
+}
+
+.user-magic-mail-log th,
+.user-magic-mail-log td {
+  border: 1px solid #bbb;
+  padding: 10px;
+}
+
+hr.style-one {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #bbb, #333, #bbb);
+  margin: 2rem 0;
+}
+
+.user-magic-send-email-form .user-magic-category {
+  display: block;
+  padding-left: 10px;
+}
+
+.user-magic-send-email-form .user-magic-category span {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.user-magic-send-email-form .user-magic-category input {
+  width: 16px;
+}
+
+.user-magic-send-email-form .user-magic-subcategory {
+  display: block;
+  padding-left: 25px;
+}
+
+.user-magic-send-email-form .user-magic-subcategory span {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.user-magic-send-email-form .user-magic-subcategory input {
+  width: 16px;
+}
+
